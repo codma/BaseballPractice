@@ -1,0 +1,15 @@
+/Users/jinjoolee/Projects/Baseball/Baseball/bin/Debug/net5.0/Baseball.deps.json
+/Users/jinjoolee/Projects/Baseball/Baseball/bin/Debug/net5.0/Baseball.runtimeconfig.json
+/Users/jinjoolee/Projects/Baseball/Baseball/bin/Debug/net5.0/Baseball.runtimeconfig.dev.json
+/Users/jinjoolee/Projects/Baseball/Baseball/bin/Debug/net5.0/Baseball.dll
+/Users/jinjoolee/Projects/Baseball/Baseball/bin/Debug/net5.0/ref/Baseball.dll
+/Users/jinjoolee/Projects/Baseball/Baseball/bin/Debug/net5.0/Baseball.pdb
+/Users/jinjoolee/Projects/Baseball/Baseball/obj/Debug/net5.0/Baseball.csproj.AssemblyReference.cache
+/Users/jinjoolee/Projects/Baseball/Baseball/obj/Debug/net5.0/Baseball.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jinjoolee/Projects/Baseball/Baseball/obj/Debug/net5.0/Baseball.AssemblyInfoInputs.cache
+/Users/jinjoolee/Projects/Baseball/Baseball/obj/Debug/net5.0/Baseball.AssemblyInfo.cs
+/Users/jinjoolee/Projects/Baseball/Baseball/obj/Debug/net5.0/Baseball.csproj.CoreCompileInputs.cache
+/Users/jinjoolee/Projects/Baseball/Baseball/obj/Debug/net5.0/Baseball.dll
+/Users/jinjoolee/Projects/Baseball/Baseball/obj/Debug/net5.0/ref/Baseball.dll
+/Users/jinjoolee/Projects/Baseball/Baseball/obj/Debug/net5.0/Baseball.pdb
+/Users/jinjoolee/Projects/Baseball/Baseball/obj/Debug/net5.0/Baseball.genruntimeconfig.cache
